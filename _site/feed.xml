@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frontier AI Safety</title>
+    <description>Website for the frontier AI safety research community</description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>AI Safety Resources</title>
+        <description>[Placeholder] A curated collection of resources for learning about AI safety, from introductory materials to advanced research papers.
+
+## Getting Started
+
+- **AI Safety Fundamentals**: Basic concepts and terminology
+- **Risk Assessment**: Understanding potential AI risks
+- **Ethics and Values**: Philosophical foundations of AI safety
+
+## Research Papers
+
+- **Alignment Research**: Recent papers on value alignment
+- **Robustness Studies**: Research on AI system reliability
+- **Governance Papers**: Policy and governance research
+
+## Online Courses
+
+- **AI Safety Course**: Comprehensive introduction to the field
+- **Technical Alignment**: Advanced technical content
+- **Policy and Governance**: Understanding regulatory frameworks
+
+## Communities
+
+- **Research Groups**: Academic and industry research teams
+- **Online Forums**: Discussion platforms for AI safety topics
+- **Conferences**: Major events in the field
+
+## Contributing
+
+We welcome contributions to this resource collection. Please contact us if you have suggestions for additional materials.
+</description>
+        <author>
+        
+            <name></name>
+        
+        </author>
+        <pubDate>Sat, 16 Aug 2025 17:00:00 -0400</pubDate>
+        <link>http://localhost:4000/ai-safety-resources/</link>
+        <guid isPermaLink="true">http://localhost:4000/ai-safety-resources/</guid>
+      </item>
+    
+      <item>
+        <title>AI Governance Framework</title>
+        <description>[Placeholder] Effective governance of AI development requires a comprehensive framework that balances innovation with safety. This post outlines key principles for responsible AI development.
+
+## Core Principles
+
+- **Safety First**: AI development must prioritize safety and risk mitigation
+- **Transparency**: Open communication about AI capabilities and limitations
+- **Accountability**: Clear responsibility for AI system outcomes
+- **International Cooperation**: Global coordination on AI safety standards
+
+## Policy Recommendations
+
+1. **Research Investment**: Increase funding for AI safety research
+2. **Standards Development**: Create industry-wide safety standards
+3. **Oversight Mechanisms**: Establish independent review boards
+4. **Public Engagement**: Involve diverse stakeholders in policy discussions
+
+## Implementation Challenges
+
+While the need for AI governance is clear, implementation faces several challenges including rapid technological change, international coordination, and balancing competing interests.
+
+## Next Steps
+
+Developing effective AI governance will require ongoing collaboration between researchers, policymakers, industry leaders, and civil society.
+</description>
+        <author>
+        
+            <name></name>
+        
+        </author>
+        <pubDate>Sat, 16 Aug 2025 17:00:00 -0400</pubDate>
+        <link>http://localhost:4000/ai-governance-framework/</link>
+        <guid isPermaLink="true">http://localhost:4000/ai-governance-framework/</guid>
+      </item>
+    
+      <item>
+        <title>AI Alignment Techniques</title>
+        <description>[Placeholder] Technical approaches to AI alignment focus on ensuring that AI systems pursue goals that align with human values. This post explores current research directions and promising techniques.
+
+## Value Learning
+
+Teaching AI systems to understand and pursue human values is a central challenge in alignment research. Key approaches include:
+
+- **Inverse Reinforcement Learning**: Inferring human preferences from behavior
+- **Preference Learning**: Learning from human feedback and comparisons
+- **Value Function Approximation**: Modeling human values mathematically
+
+## Robustness Methods
+
+Building AI systems that behave reliably requires robust design principles:
+
+- **Adversarial Training**: Testing systems against worst-case scenarios
+- **Uncertainty Quantification**: Measuring confidence in AI decisions
+- **Fail-Safe Mechanisms**: Designing systems that fail gracefully
+
+## Interpretability
+
+Understanding AI decision-making is crucial for safety:
+
+- **Attention Mechanisms**: Identifying what information AI systems focus on
+- **Feature Attribution**: Understanding which inputs drive decisions
+- **Decision Trees**: Creating interpretable model structures
+
+## Current Challenges
+
+While progress is being made, significant challenges remain in scaling these techniques to more advanced AI systems.
+</description>
+        <author>
+        
+            <name></name>
+        
+        </author>
+        <pubDate>Sat, 16 Aug 2025 17:00:00 -0400</pubDate>
+        <link>http://localhost:4000/ai-alignment-techniques/</link>
+        <guid isPermaLink="true">http://localhost:4000/ai-alignment-techniques/</guid>
+      </item>
+    
+      <item>
+        <title>Why AI Safety Matters</title>
+        <description>[Placeholder] As artificial intelligence systems become more capable and autonomous, ensuring their safety becomes increasingly critical. This post explores the fundamental reasons why AI safety research is essential for humanity&apos;s future.
+
+## The Challenge
+
+Advanced AI systems have the potential to solve complex problems and improve human lives in unprecedented ways. However, they also pose unique risks that require careful consideration and proactive research.
+
+## Key Areas of Concern
+
+- **Alignment**: Ensuring AI systems pursue goals that align with human values
+- **Robustness**: Building systems that behave reliably even in unexpected situations
+- **Transparency**: Understanding how AI systems make decisions
+- **Control**: Maintaining human oversight and control over AI systems
+
+## Moving Forward
+
+The field of AI safety is still in its early stages, but the stakes are high. By investing in safety research now, we can help ensure that AI development benefits humanity while minimizing risks.
+
+Stay tuned for more posts exploring these critical topics in detail.
+</description>
+        <author>
+        
+            <name></name>
+        
+        </author>
+        <pubDate>Fri, 15 Aug 2025 17:00:00 -0400</pubDate>
+        <link>http://localhost:4000/why-ai-safety-matters/</link>
+        <guid isPermaLink="true">http://localhost:4000/why-ai-safety-matters/</guid>
+      </item>
+    
+      <item>
+        <title>Welcome to FrontierAISafety.org!</title>
+        <description>Hello, welcome to this new website! Our goal is to serve as a hub for the Frontier AI Safety community and to promote the work in this area. Please read on to learn more!
+ 
+
+This is a community-driven effort and we welcome participation. 
+If you are interested in contributing, please reach out to us (by email or in the comments below). 
+Further details are on [About](https://FrontierAISafety.org/about/) and [Github](https://github.com/FrontierAISafety/FrontierAISafety).
+ </description>
+        <author>
+        
+            <name>Hidayet Aksu</name>
+        
+        </author>
+        <pubDate>Sat, 15 Aug 2020 21:00:00 -0400</pubDate>
+        <link>http://localhost:4000/welcome/</link>
+        <guid isPermaLink="true">http://localhost:4000/welcome/</guid>
+      </item>
+    
+  </channel>
+</rss>

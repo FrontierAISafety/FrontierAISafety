@@ -1,0 +1,93 @@
+---
+layout: default
+---
+
+<article class="post">
+  <h1>{{ page.title }}</h1>
+
+  <div class="entry">
+    {{ content }}
+  </div>
+
+  <div class="date">
+      Posted {% if page.authors %}by{% for author in page.authors %}{% if forloop.first == false %}{% if forloop.last == true %} and{% else %},{% endif %}{% endif %} <a href="{{ site.data.contributors[author].homepage }}">{{ site.data.contributors[author].name }}</a>{% endfor %}{% endif %} on {{ page.date | date: "%B %e, %Y" }}.
+  </div>
+  <div class="post-categories">
+    {% if post %}
+      {% assign categories = post.categories %}
+    {% else %}
+      {% assign categories = page.categories %}
+    {% endif %}
+	Categories: 
+    {% for category in categories %}
+    <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+    {% unless forloop.last %}&nbsp;{% endunless %}
+    {% endfor %}
+  </div>
+  
+  <br/>
+
+  
+  <a href="/bibtex/#{{ page.url | remove:"/" }}">[cite this]</a> &nbsp;
+  
+  <!-- Disqus is disabled for now -->
+  <!-- {% include disqus.html %} 
+  {% if page.comments %}
+  <span class="disqus-comment-count" data-disqus-url="{{ site.url }}{{ page.url }}">  </span>
+
+
+  <br/>&nbsp;<br/>
+ <div class="comments-block">
+     <center><button id="show-comments" onclick="disqus();return false;">SHOW COMMENTS</button></center>
+ </div>
+ <noscript>Comments cannot be shown due to javascript being disabled in your browser.</noscript>
+ 
+
+ <div id="disqus_thread"></div>
+ 
+ <script id="dsq-count-scr" src="//{{ site.disqus }}.disqus.com/count.js" async></script>
+ 
+ <script>
+ var disqus_loaded = false;
+ var disqus_shortname = '{{ site.disqus }}'; //Add your shortname here
+
+ function disqus() {
+
+     if (!disqus_loaded)  {
+         disqus_loaded = true;
+
+         var e = document.createElement("script");
+         e.type = "text/javascript";
+         e.async = true;
+         e.src = "//" + disqus_shortname + ".disqus.com/embed.js";
+         (document.getElementsByTagName("head")[0] ||
+         document.getElementsByTagName("body")[0])
+         .appendChild(e);
+
+         //Hide the button after opening
+         document.getElementById("show-comments").style.display = "none";
+     }
+ }
+
+ //Opens comments when linked to directly
+ var hash = window.location.hash.substr(1);
+ if (hash.length > 8) {
+     if (hash.substring(0, 8) == "comment-") {
+         disqus();
+     }
+ }
+
+ //Remove this if you don't want to load comments for search engines
+ if(/bot|google|baidu|bing|msn|duckduckgo|slurp|yandex/i.test(navigator.userAgent)) {
+    disqus();
+ }
+ </script>
+  {% endif %}
+  
+  <br/>&nbsp;<br/>
+
+  <div>Subscribe to updates from FrontierAISafety.org by <a href="https://follow.it/differential-privacy-1?leanpub">Email</a>, on <a href="https://bsky.app/profile/differentialprivacy.org">Bluesky</a> or <a href="https://twitter.com/DiffPriv">Twitter</a>, or via <a href="/feed.xml">RSS</a>.</div>
+  
+  <br/>&nbsp;<br/>
+-->
+</article>
