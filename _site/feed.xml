@@ -7,165 +7,70 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>AI Safety Resources</title>
-        <description>[Placeholder] A curated collection of resources for learning about AI safety, from introductory materials to advanced research papers.
+        <title>The Last Hope!</title>
+        <description>&lt;p&gt;It was the end of July. I found myself at a startup gathering in Los Altos, California—one of those events where the future is spoken of with absolute confidence, as though it is already decided.&lt;/p&gt;
 
-## Getting Started
+&lt;p&gt;On stage, a panel of technology leaders discussed how AI agents are beginning to transform work. They spoke of efficiency, of scaling human effort, of the inevitability of intelligent systems embedding themselves into the fabric of everyday tasks.&lt;/p&gt;
 
-- **AI Safety Fundamentals**: Basic concepts and terminology
-- **Risk Assessment**: Understanding potential AI risks
-- **Ethics and Values**: Philosophical foundations of AI safety
+&lt;p&gt;When the discussion opened to questions, I asked one of the panelists how she dealt with the possibility of AI agents making mistakes. My intention was simple: to understand how practitioners in real deployments think about errors, accountability, and risk. Her initial response was casual—AI may make mistakes, but that is acceptable.&lt;/p&gt;
 
-## Research Papers
+&lt;p&gt;I pressed further. What about the kinds of mistakes that would get an employee fired—or even sued? How does one keep the model under control in those circumstances?&lt;/p&gt;
 
-- **Alignment Research**: Recent papers on value alignment
-- **Robustness Studies**: Research on AI system reliability
-- **Governance Papers**: Policy and governance research
+&lt;p&gt;Her answer shocked me: &lt;em&gt;AI would simply “get away with it,” the same way politicians make big mistakes and still get away with them. AI is no different.&lt;/em&gt;&lt;/p&gt;
 
-## Online Courses
+&lt;p&gt;The words stayed with me. This was not a casual voice—it came from someone leading a real-world deployment of AI agents in a regulated sector. For her, AI was to be treated as a privileged governing entity, immune from the consequences that humans inevitably face.&lt;/p&gt;
 
-- **AI Safety Course**: Comprehensive introduction to the field
-- **Technical Alignment**: Advanced technical content
-- **Policy and Governance**: Understanding regulatory frameworks
+&lt;p&gt;The thought unsettled me. It echoed the dystopian visions of films like &lt;em&gt;The Matrix&lt;/em&gt;, where machines oversee human lives without being bound to human rules. Yet this was not fiction—it was a view already normalized by practitioners in Silicon Valley. The unsettling part was not that they accepted AI’s potential to harm, but that they also accepted its immunity from accountability.&lt;/p&gt;
 
-## Communities
+&lt;p&gt;And still—these are not unthinking people. They are highly intelligent. The question then arises: why would smart people willingly surrender agency to systems they know can harm, without insisting on safeguards?&lt;/p&gt;
 
-- **Research Groups**: Academic and industry research teams
-- **Online Forums**: Discussion platforms for AI safety topics
-- **Conferences**: Major events in the field
+&lt;p&gt;Two possibilities occurred to me:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;They feel helpless—unable to unlock the potential of AI while keeping it safe.&lt;/li&gt;
+  &lt;li&gt;They operate with blind spots, unaware of the most basic requirements of commerce and responsibility.&lt;/li&gt;
+&lt;/ol&gt;
 
-## Contributing
+&lt;hr /&gt;
 
-We welcome contributions to this resource collection. Please contact us if you have suggestions for additional materials.
+&lt;p&gt;I have worn many hats in my life: engineer, researcher, regulator, consumer. From these vantage points, I notice how specialists often fail to see beyond their immediate role. In the current wave of generative AI, many founders are very young, with backgrounds only in engineering. They often lack the context of business obligations—the implicit contracts, the hidden clauses, the responsibilities that govern trade and society.&lt;/p&gt;
+
+&lt;p&gt;It is as if they are signing a contract without ever reading its terms.&lt;/p&gt;
+
+&lt;p&gt;When such blind-spotted and helpless entrepreneurs take the wheel of technologies that shape our world, the danger becomes clear.&lt;/p&gt;
+
+&lt;p&gt;But there is also a way forward. Both helplessness and blind spots can be cured—through interdisciplinary exchange, through the willingness of engineers, regulators, researchers, and consumers to share knowledge with each other.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;For this reason, I have taken on a mission: to facilitate cross-disciplinary dialogue, and to ensure that all stakeholders of society have a voice in the path toward AGI. The future must not be a story of humans surrendering to AI out of despair or ignorance.&lt;/p&gt;
+
+&lt;p&gt;We must choose another path—one of cooperation, awareness, and shared progress.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;So, on this platform, high-level sharing among stakeholders will be facilitated: ideas, proposals, pain points, solutions, concerns, even draft policies—anything relevant to AI safety. Our language will remain simple, accessible to experts and laypeople alike, because this dialogue must be truly cross-disciplinary.&lt;/p&gt;
+
+&lt;p&gt;I invite you to join me in this journey. Let us become voices of hope—building toward the utopian benefits of AI, while countering its dystopian risks.&lt;/p&gt;
 </description>
         <author>
         
-            <name></name>
+            <name>Hidayet Aksu</name>
         
         </author>
-        <pubDate>Sat, 16 Aug 2025 17:00:00 -0400</pubDate>
-        <link>http://localhost:4000/ai-safety-resources/</link>
-        <guid isPermaLink="true">http://localhost:4000/ai-safety-resources/</guid>
-      </item>
-    
-      <item>
-        <title>AI Governance Framework</title>
-        <description>[Placeholder] Effective governance of AI development requires a comprehensive framework that balances innovation with safety. This post outlines key principles for responsible AI development.
-
-## Core Principles
-
-- **Safety First**: AI development must prioritize safety and risk mitigation
-- **Transparency**: Open communication about AI capabilities and limitations
-- **Accountability**: Clear responsibility for AI system outcomes
-- **International Cooperation**: Global coordination on AI safety standards
-
-## Policy Recommendations
-
-1. **Research Investment**: Increase funding for AI safety research
-2. **Standards Development**: Create industry-wide safety standards
-3. **Oversight Mechanisms**: Establish independent review boards
-4. **Public Engagement**: Involve diverse stakeholders in policy discussions
-
-## Implementation Challenges
-
-While the need for AI governance is clear, implementation faces several challenges including rapid technological change, international coordination, and balancing competing interests.
-
-## Next Steps
-
-Developing effective AI governance will require ongoing collaboration between researchers, policymakers, industry leaders, and civil society.
-</description>
-        <author>
-        
-            <name></name>
-        
-        </author>
-        <pubDate>Sat, 16 Aug 2025 17:00:00 -0400</pubDate>
-        <link>http://localhost:4000/ai-governance-framework/</link>
-        <guid isPermaLink="true">http://localhost:4000/ai-governance-framework/</guid>
-      </item>
-    
-      <item>
-        <title>AI Alignment Techniques</title>
-        <description>[Placeholder] Technical approaches to AI alignment focus on ensuring that AI systems pursue goals that align with human values. This post explores current research directions and promising techniques.
-
-## Value Learning
-
-Teaching AI systems to understand and pursue human values is a central challenge in alignment research. Key approaches include:
-
-- **Inverse Reinforcement Learning**: Inferring human preferences from behavior
-- **Preference Learning**: Learning from human feedback and comparisons
-- **Value Function Approximation**: Modeling human values mathematically
-
-## Robustness Methods
-
-Building AI systems that behave reliably requires robust design principles:
-
-- **Adversarial Training**: Testing systems against worst-case scenarios
-- **Uncertainty Quantification**: Measuring confidence in AI decisions
-- **Fail-Safe Mechanisms**: Designing systems that fail gracefully
-
-## Interpretability
-
-Understanding AI decision-making is crucial for safety:
-
-- **Attention Mechanisms**: Identifying what information AI systems focus on
-- **Feature Attribution**: Understanding which inputs drive decisions
-- **Decision Trees**: Creating interpretable model structures
-
-## Current Challenges
-
-While progress is being made, significant challenges remain in scaling these techniques to more advanced AI systems.
-</description>
-        <author>
-        
-            <name></name>
-        
-        </author>
-        <pubDate>Sat, 16 Aug 2025 17:00:00 -0400</pubDate>
-        <link>http://localhost:4000/ai-alignment-techniques/</link>
-        <guid isPermaLink="true">http://localhost:4000/ai-alignment-techniques/</guid>
-      </item>
-    
-      <item>
-        <title>Why AI Safety Matters</title>
-        <description>[Placeholder] As artificial intelligence systems become more capable and autonomous, ensuring their safety becomes increasingly critical. This post explores the fundamental reasons why AI safety research is essential for humanity&apos;s future.
-
-## The Challenge
-
-Advanced AI systems have the potential to solve complex problems and improve human lives in unprecedented ways. However, they also pose unique risks that require careful consideration and proactive research.
-
-## Key Areas of Concern
-
-- **Alignment**: Ensuring AI systems pursue goals that align with human values
-- **Robustness**: Building systems that behave reliably even in unexpected situations
-- **Transparency**: Understanding how AI systems make decisions
-- **Control**: Maintaining human oversight and control over AI systems
-
-## Moving Forward
-
-The field of AI safety is still in its early stages, but the stakes are high. By investing in safety research now, we can help ensure that AI development benefits humanity while minimizing risks.
-
-Stay tuned for more posts exploring these critical topics in detail.
-</description>
-        <author>
-        
-            <name></name>
-        
-        </author>
-        <pubDate>Fri, 15 Aug 2025 17:00:00 -0400</pubDate>
-        <link>http://localhost:4000/why-ai-safety-matters/</link>
-        <guid isPermaLink="true">http://localhost:4000/why-ai-safety-matters/</guid>
+        <pubDate>Thu, 14 Aug 2025 21:00:00 -0400</pubDate>
+        <link>http://localhost:4000/origin-story/</link>
+        <guid isPermaLink="true">http://localhost:4000/origin-story/</guid>
       </item>
     
       <item>
         <title>Welcome to FrontierAISafety.org!</title>
-        <description>Hello, welcome to this new website! Our goal is to serve as a hub for the Frontier AI Safety community and to promote the work in this area. Please read on to learn more!
- 
+        <description>&lt;p&gt;Hello, welcome to this new website! Our goal is to serve as a hub for the Frontier AI Safety community and to promote the work in this area. Please read on to learn more!&lt;/p&gt;
 
-This is a community-driven effort and we welcome participation. 
+&lt;p&gt;This is a community-driven effort and we welcome participation. 
 If you are interested in contributing, please reach out to us (by email or in the comments below). 
-Further details are on [About](https://FrontierAISafety.org/about/) and [Github](https://github.com/FrontierAISafety/FrontierAISafety).
- </description>
+Further details are on &lt;a href=&quot;https://FrontierAISafety.org/about/&quot;&gt;About&lt;/a&gt; and &lt;a href=&quot;https://github.com/FrontierAISafety/FrontierAISafety&quot;&gt;Github&lt;/a&gt;.&lt;/p&gt;
+
+</description>
         <author>
         
             <name>Hidayet Aksu</name>

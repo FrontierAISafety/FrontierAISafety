@@ -94,52 +94,7 @@
     <a name="Motivation"></a>
 	<ul>
     
-		<li><a href="/why-ai-safety-matters/">Why AI Safety Matters</a></li>
-	
-	</ul>
-
-  </div>
-
-  <div class="archive-group">
-    
-    <div id="#Tech"></div>
-    <p></p>
-
-    <h4 class="category-head">Tech</h4>
-    <a name="Tech"></a>
-	<ul>
-    
-		<li><a href="/ai-alignment-techniques/">AI Alignment Techniques</a></li>
-	
-	</ul>
-
-  </div>
-
-  <div class="archive-group">
-    
-    <div id="#Policy"></div>
-    <p></p>
-
-    <h4 class="category-head">Policy</h4>
-    <a name="Policy"></a>
-	<ul>
-    
-		<li><a href="/ai-governance-framework/">AI Governance Framework</a></li>
-	
-	</ul>
-
-  </div>
-
-  <div class="archive-group">
-    
-    <div id="#Resources"></div>
-    <p></p>
-
-    <h4 class="category-head">Resources</h4>
-    <a name="Resources"></a>
-	<ul>
-    
-		<li><a href="/ai-safety-resources/">AI Safety Resources</a></li>
+		<li><a href="/origin-story/">The Last Hope!</a></li>
 	
 	</ul>
 
@@ -185,7 +140,7 @@
 		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-		ga('create', 'UA-11154678-4', 'auto');
+		ga('create', 'G-C1P0YTGPW7', 'auto');
 		ga('send', 'pageview', {
 		  'page': '/categories/',
 		  'title': 'Categories'
