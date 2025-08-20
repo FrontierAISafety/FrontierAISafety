@@ -28,6 +28,7 @@ permalink: /resources/
 ## Relevent Entities
 * [The Center for AI Safety](https://safe.ai/)
 * [Model Evaluation & Threat Research](https://metr.org/)
+* [The AI Security Institute](https://www.aisi.gov.uk/)
 
 ## Other Resources
 * [Trustworthy ML Initiative](https://www.trustworthyml.org/)
