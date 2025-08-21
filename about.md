@@ -3,8 +3,17 @@ layout: page
 title: About
 permalink: /about/
 ---
+<div style="display:flex; align-items:center; justify-content:space-between;">
+  <div style="flex:1; padding-right:0px;">
 
 This website is intended to serve as a resource for the Frontier AI Safety community, including tech leaders, reseachers, policy makers, as well as for those seeking to learn more about the subject. If you have any comments or suggestions for topics to cover, please contact the site administrators.
+
+  </div>
+  <div>
+      <img src="/images/logofais.png" width="200"/>
+  </div>
+</div>
+
 
 ## Contact
 
